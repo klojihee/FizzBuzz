@@ -3,12 +3,6 @@
  */
 class FizzBuzz {
 
-    static void mainCaller()
-    {
-        // Calling the main() method
-        main(null);
-    }
-
     public static void main(String[] args) {
 
         int i = 1;
